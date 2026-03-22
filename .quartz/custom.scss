@@ -1,0 +1,39 @@
+@use "./base.scss";
+
+// put your custom CSS here!
+// Targets the Explorer/Sidebar
+.explorer {
+  
+  font-size: 0.95rem; 
+
+  li {
+    margin: 4px 0; 
+    border-radius: 4px;
+    transition: background 0.2s ease;
+
+    a {
+      padding: 6px 8px;
+      display: block;
+      line-height: 1.4;
+      text-decoration: none;
+      
+      &:hover {
+        background-color: var(--highlight);
+        color: var(--secondary);
+      }
+    }
+  }
+
+  .folder-button {
+    margin-right: 8px;
+    transform: scale(1.1);
+  }
+}
+
+.explorer li:not(:last-child) {
+  border-bottom: 1px solid var(--lightgray);
+}
+
+:root {
+  --sidepanel-width: 320px;
+}
