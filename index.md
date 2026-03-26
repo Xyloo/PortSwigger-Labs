@@ -10,9 +10,9 @@ Here's my progress so far:
 | Difficulty | Progress | Percentage |
 | :--- | :--- | :--- |
 | **Apprentice** | 15 / 59 <progress value="15" max="59"></progress> | 25.4% |
-| **Practitioner** | 13 / 172 <progress value="13" max="172"></progress> | 7.6% |
+| **Practitioner** | 14 / 172 <progress value="14" max="172"></progress> | 8.1% |
 | **Expert** | 0 / 39 <progress value="0" max="39"></progress> | 0.0% |
-| **Overall** | **28 / 270** <progress value="28" max="270"></progress> | **10.4%** |
+| **Overall** | **29 / 270** <progress value="29" max="270"></progress> | **10.7%** |
 
 Here's my lab progress by category (categories based on [PortSwigger's website](https://portswigger.net/web-security/all-labs))
 
@@ -20,7 +20,7 @@ Here's my lab progress by category (categories based on [PortSwigger's website](
 | :--- | :---: | :---: | :---: | :--- | :--- |
 | **API testing** | 0 / 1 | 0 / 3 | 0 / 1 | <progress value="0" max="5"></progress> | **0 / 5** (0.0%) |
 | **Access control vulnerabilities** | 5 / 9 | 0 / 4 | 0 / 0 | <progress value="5" max="13"></progress> | **5 / 13** (38.5%) |
-| **Authentication** | 2 / 3 | 5 / 9 | 0 / 2 | <progress value="7" max="14"></progress> | **7 / 14** (50.0%) |
+| **Authentication** | 2 / 3 | 6 / 9 | 0 / 2 | <progress value="8" max="14"></progress> | **8 / 14** (57.1%) |
 | **Business logic vulnerabilities** | 0 / 4 | 0 / 7 | 0 / 1 | <progress value="0" max="12"></progress> | **0 / 12** (0.0%) |
 | **Clickjacking** | 0 / 3 | 0 / 2 | 0 / 0 | <progress value="0" max="5"></progress> | **0 / 5** (0.0%) |
 | **Cross-origin resource sharing (CORS)** | 0 / 2 | 0 / 1 | 0 / 0 | <progress value="0" max="3"></progress> | **0 / 3** (0.0%) |
