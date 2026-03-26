@@ -1,6 +1,6 @@
 # PortSwigger Labs
 
-![Labs Solved](https://img.shields.io/badge/Labs_Solved-27%2F270-success?style=for-the-badge&logo=portswigger)
+![Labs Solved](https://img.shields.io/badge/Labs_Solved-28%2F270-success?style=for-the-badge&logo=portswigger)
 ![Status](https://img.shields.io/badge/Status-Actively_Learning-blue?style=for-the-badge)
 
 This repository contains my personal solutions for the [PortSwigger Web Security Academy](https://portswigger.net/web-security). 
